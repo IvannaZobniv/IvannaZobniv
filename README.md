@@ -1,4 +1,35 @@
 ### Hi there 👋
+### Languages and Tools:
+<span>
+  <img height="25" title="JavaScript" src="https://github.com/IvannaZobniv/icons/blob/master/skils/JavaScript.png">
+</span>
+<span>
+  <img height="25" title="TypeScript" src="https://github.com/IvannaZobniv/icons/blob/master/skils/TypeScript.png">
+</span>
+<span>
+  <img height="25" title="NodeJs" src="https://github.com/IvannaZobniv/icons/blob/master/skils/nestjs.png">
+</span>
+<span>
+  <img height="25" title="NodeJs" src="https://github.com/IvannaZobniv/icons/blob/master/skils/NodeJS.png">
+</span>
+<span>
+  <img height="25" title="React" src="https://github.com/IvannaZobniv/icons/blob/master/skils/React.png">
+</span>
+<span>
+  <img height="25" title="Redux" src="https://github.com/IvannaZobniv/icons/blob/master/skils/Redux.png">
+</span>
+<span>
+  <img height="25" title="IntelijIDEA" src="https://github.com/IvannaZobniv/icons/blob/master/skils/Intelij.png">
+</span>
+<span>
+  <img height="25" title="NPM" src="https://github.com/IvannaZobniv/icons/blob/master/skils/npm.png">
+</span>
+<span>
+  <img height="25" title="MongoDB" src="https://github.com/IvannaZobniv/icons/blob/master/skils/MongoDB.png">
+</span>
+<span>
+  <img height="25" title="MySQL" src="https://github.com/IvannaZobniv/icons/blob/master/skils/MySQL.png">
+</span>
 
 <!--
 **IvannaZobniv/IvannaZobniv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
